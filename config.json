@@ -1,0 +1,36 @@
+{
+    "clinicName": "BrightSmile Dental",
+    "hours": {
+        "Monday": "9:00 AM - 5:00 PM",
+        "Tuesday": "9:00 AM - 5:00 PM",
+        "Wednesday": "9:00 AM - 5:00 PM",
+        "Thursday": "9:00 AM - 5:00 PM",
+        "Friday": "9:00 AM - 1:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+    },
+    "insuranceAccepted": [
+        "Delta Dental",
+        "Cigna",
+        "MetLife",
+        "UnitedHealthcare",
+        "Aetna"
+    ],
+    "appointmentTypes": [
+        "Cleaning",
+        "Consultation",
+        "Emergency",
+        "Procedure Follow-up"
+    ],
+    "emergencyRules": [
+        "Severe pain",
+        "Swelling",
+        "Uncontrolled bleeding",
+        "Trauma to face/mouth"
+    ],
+    "system": {
+        "voice": "alloy",
+        "timezone": "America/New_York",
+        "twilioFallbackNumber": "+15550000000"
+    }
+}
